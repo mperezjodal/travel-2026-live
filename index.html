@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow, noarchive" />
+    <title>Itinerario vivo</title>
+    <link rel="preconnect" href="https://unpkg.com" />
+    <link rel="preconnect" href="https://tile.openstreetmap.org" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="styles.css?v=20260702-extras-reviewed" />
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js" defer></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" defer></script>
+    <script src="itinerary-data.js?v=20260702-extras-reviewed" defer></script>
+    <script src="app.js?v=20260702-extras-reviewed" defer></script>
+  </head>
+  <body>
+    <main>
+      <section id="resumen" class="intro" aria-labelledby="page-title">
+        <h1 id="page-title">Itinerario vivo</h1>
+      </section>
+
+      <section id="mapa" class="map-section" aria-label="Ruta y destinos">
+        <span id="explorar" class="sr-only">Explorar</span>
+        <span id="map-title" class="sr-only">Mapa</span>
+
+        <div id="map-block-controls" class="map-block-controls" aria-label="Filtrar mapa por bloque"></div>
+
+        <div class="map-shell">
+          <button id="reset-map" class="ghost-button" type="button">
+            <i data-lucide="maximize-2"></i>
+            <span>Ver todo</span>
+          </button>
+          <div id="route-map" aria-label="Mapa del itinerario"></div>
+        </div>
+
+        <div class="route-detail-layout">
+          <div id="route-list" class="route-list"></div>
+
+          <article id="destination-detail" class="destination-detail route-detail" aria-live="polite"></article>
+        </div>
+      </section>
+
+      <section id="presupuesto" class="budget-section" aria-labelledby="budget-title">
+        <details id="budget-panel" class="budget-panel">
+          <summary>
+            <span>
+              <strong id="budget-title">Calculando presupuesto...</strong>
+              <small id="budget-subtitle"></small>
+            </span>
+            <i data-lucide="chevron-down"></i>
+          </summary>
+          <div id="budget-dashboard" class="budget-dashboard"></div>
+        </details>
+      </section>
+
+    </main>
+  </body>
+</html>
