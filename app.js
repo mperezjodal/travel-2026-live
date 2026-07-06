@@ -458,7 +458,7 @@ function renderBudget() {
         <div class="budget-table-row">
           <div>
             <strong>${escapeHtml(block.title)}</strong>
-            <small>${item.nights} noches</small>
+            <small>${item.nights} noches · ${escapeHtml(shortDate(block.dates))}</small>
           </div>
           ${budgetDailyCell(item.daily.realistic, item.paid || 0, { expenseScope })}
           ${budgetAmountCell("Traslados", transportValue, transport?.paid || 0, { expenseScope })}

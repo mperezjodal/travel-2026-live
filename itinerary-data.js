@@ -4,11 +4,11 @@ window.travel2026Data = {
       "id": "thailand",
       "number": "01",
       "title": "Tailandia",
-      "dates": "25 jun - 16 jul",
+      "dates": "25 jun - 13 jul",
       "role": "Aterrizaje recortado, norte y Bangkok",
       "climate": "Julio es lluvioso, pero ciudad y salidas cortas resisten mejor que rutas largas. Golfo queda como comodín, no eje.",
       "summary": "Chiang Mai + norte, Chiang Rai y Bangkok como primer bloque fuerte, sin estirar Golfo/islas antes de Indonesia.",
-      "strategy": "Recortar una semana: priorizar norte, templos, Bangkok y dejar Golfo/islas solo como idea futura si el viaje cambia.",
+      "strategy": "Recortar tres noches: priorizar norte, templos, Bangkok y dejar Golfo/islas solo como idea futura si el viaje cambia.",
       "practices": [
         "meditación",
         "masaje tailandés",
@@ -42,7 +42,7 @@ window.travel2026Data = {
       "id": "indonesia",
       "number": "02",
       "title": "Indonesia",
-      "dates": "16-25 jul",
+      "dates": "13-22 jul",
       "role": "Indonesia concentrada",
       "climate": "Java, Bali, Lombok y Flores están en una de sus ventanas más defendibles; agosto 2026 aparece como pico seco en BMKG.",
       "summary": "Indonesia queda como bloque corto pero intenso: Bali con filtro y Komodo como gran experiencia si los vuelos/precios cierran.",
@@ -77,11 +77,11 @@ window.travel2026Data = {
       "id": "sri-nepal",
       "number": "03",
       "title": "Sri Lanka",
-      "dates": "25 jul - 8 ago",
+      "dates": "22-27 jul",
       "role": "Ruinas, elefantes y costa este",
       "climate": "Sri Lanka este y Triángulo Cultural funcionan bien en agosto. Se evita Nepal porque monzón lo vuelve más cultural que Himalaya real.",
-      "summary": "Sri Lanka gana peso como bloque propio: Sigiriya/Dambulla, elefantes salvajes y costa este antes de salir hacia el resto de Asia.",
-      "strategy": "Hacer pocas bases y no correr todo el país. Triángulo Cultural + safari responsable + Trincomalee/Nilaveli es la versión clara.",
+      "summary": "Sri Lanka queda como bloque muy corto: Sigiriya/Dambulla y una experiencia de elefantes/templo si la logística cierra.",
+      "strategy": "No intentar Sri Lanka completo. Usarlo como golpe cultural de cinco noches o descartarlo si los vuelos lo vuelven absurdo.",
       "practices": [
         "elefantes salvajes",
         "budismo cingalés",
@@ -108,12 +108,12 @@ window.travel2026Data = {
     {
       "id": "central",
       "number": "04",
-      "title": "Uzbekistán / Kirguistán",
-      "dates": "8-19 ago",
-      "role": "Ruta de la Seda y montaña real",
-      "climate": "Uzbekistán sigue caluroso a fines de agosto, pero viable si se madruga. Kirguistán entra en una de sus mejores ventanas de montaña y WNG.",
-      "summary": "Uzbekistán ultra compacto antes de Bishkek, luego Issyk-Kul/WNG y montaña kirguisa en modo rápido.",
-      "strategy": "No sacar destinos, pero sí cambiar el estándar: Uzbekistán como golpe cultural veloz y Kirguistán centrado en WNG + una o dos salidas de montaña.",
+      "title": "Nepal / Uzbekistán / Kirguistán",
+      "dates": "27 jul - 3 ago",
+      "role": "Montaña y Ruta de la Seda en modo prueba",
+      "climate": "Una semana para Nepal, Uzbekistán y Kirguistán no es una ruta completa: funciona solo como decisión abierta según vuelos, clima y ganas de montaña/cultura.",
+      "summary": "Bloque comodín comprimido: Nepal cultural/valle, Uzbekistán como golpe Silk Road o Kirguistán como montaña real. No entran los tres bien.",
+      "strategy": "Dejar anotados los tres y elegir por conectividad. Si se fuerza todo, se vuelve puro traslado; el valor está en escoger una línea fuerte.",
       "practices": [
         "música sufí/maqam",
         "Ruta de la Seda",
@@ -142,11 +142,11 @@ window.travel2026Data = {
       "id": "china",
       "number": "05",
       "title": "China",
-      "dates": "19-29 ago",
+      "dates": "3-10 ago",
       "role": "Cultura grande antes de Japón",
       "climate": "Septiembre es atractivo, pero el Festival de Medio Otoño 25-27 sep y la Golden Week desde 1 oct hacen conveniente salir o quedarse quieto antes.",
-      "summary": "China queda intensa y recortada: una línea fuerte, no un país entero.",
-      "strategy": "Moverse fuerte y elegir corredor. Mantener todos los destinos como candidatos, pero asumir que varios son pasadas rápidas o se deciden por conectividad.",
+      "summary": "China queda como semana de entrada fuerte: una línea cultural/gastronómica, no un país entero.",
+      "strategy": "Elegir corredor por conectividad. En siete noches, Chengdu/Emei o Xi'an/Dunhuang compiten: no intentar todo.",
       "practices": [
         "té",
         "taiji/qigong",
@@ -177,11 +177,11 @@ window.travel2026Data = {
       "id": "korea-taiwan",
       "number": "06",
       "title": "Corea / Taiwán",
-      "dates": "29 ago - 9 sep",
+      "dates": "10-17 ago",
       "role": "Corea y Taiwán antes de Japón",
       "climate": "Corea a fines de agosto/inicio de septiembre puede venir húmeda y calurosa; Taiwán sigue con riesgo de tifón. Bloque urbano/gastronómico con buffers.",
-      "summary": "Seúl + Busan/Gyeongju rápido, luego Taipéi + Tainan/norte de Taiwán antes de entrar a Japón el 1 de octubre.",
-      "strategy": "Adelantarlo como puente hacia Japón. Mantener Seúl/Taipéi como bases flexibles y no sobredimensionar traslados si el clima se mueve.",
+      "summary": "Seúl/Taipéi como bloque urbano-gastronómico compacto antes de Japón.",
+      "strategy": "Una semana obliga a elegir: Corea o Taiwán con una escapada, o dos capitales en modo speedrun. No sobredimensionar traslados si el clima se mueve.",
       "practices": [
         "temple stay/chanting",
         "jjimjilbang",
@@ -203,11 +203,11 @@ window.travel2026Data = {
       "id": "japan",
       "number": "07",
       "title": "Japón",
-      "dates": "9 sep - 2 nov",
+      "dates": "17 ago - 10 oct",
       "role": "Japón largo pero una semana más corto",
       "climate": "Septiembre todavía puede ser caluroso y con riesgo de tifón; octubre mejora mucho y el koyo fuerte llega más tarde. La ruta debe guardar flexibilidad al principio.",
-      "summary": "Japón entra antes y termina antes: Tokio como reset, luego Kansai/Koyasan/Kumano/onsen con una semana menos que el plan largo original.",
-      "strategy": "Usar septiembre para ciudad/base flexible y dejar la profundidad de templos, caminatas y onsen para octubre cuando el clima sea más amable.",
+      "summary": "Japón entra mucho antes: Tokio como reset, luego Kansai/Koyasan/Kumano/onsen con cuidado por calor/tifones al inicio.",
+      "strategy": "Usar fin de agosto y septiembre para ciudad/base flexible y dejar templos, caminatas y onsen para cuando el clima sea más amable.",
       "practices": [
         "shukubo/chanting",
         "onsen",
@@ -244,7 +244,7 @@ window.travel2026Data = {
       "id": "west-us",
       "number": "08",
       "title": "EEUU oeste",
-      "dates": "2-17 nov",
+      "dates": "10-25 oct",
       "role": "Costa oeste y pausa urbana",
       "climate": "Noviembre es buen mes para ciudades de la costa oeste; puede ser fresco/lluvioso en San Francisco y más amable hacia Los Ángeles/Southwest.",
       "summary": "Mitad del cierre post-Asia: bajar intensidad, ver amigos si aparecen, ciudad/costa/museos y una posible escapada de naturaleza del oeste.",
@@ -271,11 +271,11 @@ window.travel2026Data = {
       "id": "latam-return",
       "number": "09",
       "title": "LatAm regreso",
-      "dates": "17 nov - 2 dic",
+      "dates": "25 oct - 2 dic",
       "role": "Bajada hacia Uruguay",
       "climate": "Final de primavera en Sudamérica: buena ventana general, con calor subiendo y más movimiento hacia diciembre.",
-      "summary": "Mitad final del cierre: una bajada por Latinoamérica antes de llegar a Uruguay el 2 de diciembre.",
-      "strategy": "Elegir dos o tres escalas máximas. No armar otro viaje gigante: comida, ciudad, amigos y llegada ordenada.",
+      "summary": "El tiempo liberado pasa a LatAm: una bajada más larga por Latinoamérica antes de llegar a Uruguay el 2 de diciembre.",
+      "strategy": "Elegir tres o cuatro escalas máximas. No armar otro viaje gigante: comida, ciudad, amigos y llegada ordenada.",
       "practices": [
         "gastronomía",
         "ciudad",
@@ -3732,10 +3732,10 @@ window.travel2026Data = {
     }
   ],
   "budget": {
-    "updated": "2026-07-02",
+    "updated": "2026-07-06",
     "currency": "USD",
-    "scope": "Estimación 25 junio - 2 diciembre 2026: Asia, Japón recortado, cierre EEUU oeste y LatAm hacia Uruguay.",
-    "summary": "Presupuesto ruta completa hasta el 2 de diciembre: alrededor de $32.900, con extras revisados para evitar duplicar día/traslados.",
+    "scope": "Estimación 25 junio - 2 diciembre 2026: Asia compactada, Japón adelantado, cierre EEUU oeste y LatAm hacia Uruguay.",
+    "summary": "Presupuesto ruta completa hasta el 2 de diciembre: alrededor de $33.300, con más tiempo final en LatAm y bloques asiáticos más compactos.",
     "fixedPaid": [
       {
         "label": "Montevideo → Buenos Aires",
@@ -4063,30 +4063,30 @@ window.travel2026Data = {
       {
         "id": "lean",
         "label": "Controlado",
-        "total": 27400,
-        "remaining": 25290,
-        "note": "Versión controlada: menos EEUU caro, Komodo/Japón muy medidos, alojamientos simples y pocas compras/experiencias grandes."
+        "total": 24700,
+        "remaining": 22590,
+        "note": "Versión controlada: Asia compacta, Japón medido, LatAm barato y pocas compras/experiencias grandes."
       },
       {
         "id": "realistic",
         "label": "Ruta completa",
-        "total": 32875,
-        "remaining": 30765,
-        "note": "Ruta hasta el 2 de diciembre con extras depurados: experiencias grandes sí, pero sin duplicar día/traslados."
+        "total": 33300,
+        "remaining": 31190,
+        "note": "Ruta hasta el 2 de diciembre con Asia más compacta, Japón adelantado y más días de LatAm."
       },
       {
         "id": "high",
         "label": "Me dejé llevar",
-        "total": 56000,
-        "remaining": 53890,
-        "note": "Techo si EEUU oeste se vuelve caro, Japón cómodo, vuelos tardíos y más experiencias especiales."
+        "total": 73000,
+        "remaining": 70890,
+        "note": "Techo si EEUU/LatAm se vuelven caros, Japón cómodo, vuelos tardíos y más experiencias especiales."
       }
     ],
     "optionalAddOns": [],
     "blockBudgets": [
       {
         "block": "thailand",
-        "nights": 21,
+        "nights": 18,
         "daily": {
           "low": 45,
           "realistic": 90,
@@ -4098,13 +4098,13 @@ window.travel2026Data = {
           "high": 1100
         },
         "total": {
-          "low": 1145,
-          "realistic": 2190,
-          "high": 4040
+          "low": 1010,
+          "realistic": 1920,
+          "high": 3620
         },
         "paid": 632.72,
         "extrasPaid": 41.44,
-        "note": "Recortado a 21 noches: extras quedan para cooking/Muay Thai/entradas puntuales; masajes y templos normales viven dentro del día."
+        "note": "Recortado a 18 noches: extras quedan para cooking/Muay Thai/entradas puntuales; masajes y templos normales viven dentro del día."
       },
       {
         "block": "indonesia",
@@ -4128,84 +4128,84 @@ window.travel2026Data = {
       },
       {
         "block": "sri-nepal",
-        "nights": 14,
+        "nights": 5,
         "daily": {
           "low": 60,
           "realistic": 85,
           "high": 160
         },
         "extras": {
-          "low": 500,
-          "realistic": 500,
-          "high": 1900
+          "low": 250,
+          "realistic": 350,
+          "high": 1000
         },
         "total": {
-          "low": 1340,
-          "realistic": 1690,
-          "high": 4140
+          "low": 550,
+          "realistic": 775,
+          "high": 1800
         },
-        "note": "Sri Lanka: entradas, safari responsable y alguna experiencia puntual. Choferes/trenes quedan en traslados, no en extras."
+        "note": "Sri Lanka mini: entradas, una experiencia fuerte y margen mínimo. Choferes/trenes quedan en traslados, no en extras."
       },
       {
         "block": "central",
-        "nights": 11,
+        "nights": 7,
         "daily": {
           "low": 75,
           "realistic": 100,
-          "high": 200
-        },
-        "extras": {
-          "low": 800,
-          "realistic": 700,
-          "high": 3000
-        },
-        "total": {
-          "low": 1625,
-          "realistic": 1800,
-          "high": 5200
-        },
-        "note": "Uzbekistán/Kirguistán: extras para WNG/montaña/termas/yurtas puntuales; transfers quedan en traslados."
-      },
-      {
-        "block": "china",
-        "nights": 10,
-        "daily": {
-          "low": 75,
-          "realistic": 100,
-          "high": 200
+          "high": 220
         },
         "extras": {
           "low": 400,
-          "realistic": 450,
-          "high": 1400
+          "realistic": 600,
+          "high": 2200
         },
         "total": {
-          "low": 1150,
-          "realistic": 1450,
-          "high": 3400
+          "low": 925,
+          "realistic": 1300,
+          "high": 3740
         },
-        "note": "China: entradas, pandas, Emei/Leshan o té serio. Trenes y cambios de ciudad quedan en traslados."
+        "note": "Nepal/Uzbekistán/Kirguistán en una semana es solo bloque de decisión. Extras para una experiencia fuerte; transfers quedan en traslados."
+      },
+      {
+        "block": "china",
+        "nights": 7,
+        "daily": {
+          "low": 75,
+          "realistic": 100,
+          "high": 200
+        },
+        "extras": {
+          "low": 250,
+          "realistic": 350,
+          "high": 1100
+        },
+        "total": {
+          "low": 775,
+          "realistic": 1050,
+          "high": 2500
+        },
+        "note": "China compacto: entradas, pandas, Emei/Leshan o té serio. Trenes y cambios de ciudad quedan en traslados."
       },
       {
         "block": "korea-taiwan",
-        "nights": 11,
+        "nights": 7,
         "daily": {
           "low": 105,
           "realistic": 135,
           "high": 250
         },
         "extras": {
-          "low": 250,
-          "realistic": 300,
-          "high": 1100
+          "low": 200,
+          "realistic": 250,
+          "high": 850
         },
         "total": {
-          "low": 1405,
-          "realistic": 1785,
-          "high": 3850
+          "low": 935,
+          "realistic": 1195,
+          "high": 2600
         },
         "optional": false,
-        "note": "Corea/Taiwán: extras para termas, museos, temple stay o alguna salida concreta; comida/cafés quedan en día."
+        "note": "Corea/Taiwán compacto: extras para termas, museos, temple stay o alguna salida concreta; comida/cafés quedan en día."
       },
       {
         "block": "japan",
@@ -4249,23 +4249,23 @@ window.travel2026Data = {
       },
       {
         "block": "latam-return",
-        "nights": 15,
+        "nights": 38,
         "daily": {
-          "low": 75,
+          "low": 65,
           "realistic": 115,
-          "high": 220
+          "high": 200
         },
         "extras": {
-          "low": 200,
-          "realistic": 250,
-          "high": 1000
+          "low": 300,
+          "realistic": 500,
+          "high": 1500
         },
         "total": {
-          "low": 1325,
-          "realistic": 1975,
-          "high": 4300
+          "low": 2770,
+          "realistic": 4870,
+          "high": 9100
         },
-        "note": "LatAm regreso: extras mínimos para algún tour/comida especial; el resto queda en día."
+        "note": "LatAm regreso largo: más días para bajar hacia Uruguay. Extras mínimos para algún tour/comida especial; el resto queda en día."
       }
     ],
     "transportBudgets": [
@@ -4426,8 +4426,8 @@ window.travel2026Data = {
     "assumptions": [
       "Perfil real observado: alojamiento privado económico, comida/cafés elegidos, transporte local cómodo y experiencias buenas cuando valen la pena.",
       "Vietnam/Camboya sale del itinerario activo; sus dossiers quedan guardados para recuperar si cambia la ruta.",
-      "Tailandia e Indonesia bajan una semana cada uno; Japón baja una semana; Sri Lanka, Asia Central, China y Corea/Taiwán mantienen duración y se adelantan.",
-      "EEUU oeste y LatAm se agregan como cierre hasta el 2 de diciembre, mitad y mitad. Esto sube el presupuesto total aunque Asia se recorte.",
+      "Tailandia baja tres noches; Sri Lanka queda en cinco noches; Nepal/Uzbekistán/Kirguistán, China y Corea/Taiwán quedan en una semana cada uno.",
+      "Japón se adelanta y mantiene duración larga; EEUU oeste también se adelanta y el resto hasta el 2 de diciembre pasa a LatAm.",
       "Extras cubre solo costos excepcionales: entradas/tours/guías/permisos/retiros puntuales, Komodo, safari, WNG/montaña, shukubo/onsen o museos especiales. Comida, cafés, transporte local y vida normal quedan en día.",
       "Seguro, salud, vacunas, pasaportes, visas/eSIM y margen de cambios quedan dentro de un único buffer de $2.000; lo ya gastado se muestra en verde.",
       "Drivers principales a vigilar: Komodo, Sri Lanka safari, WNG/Kirguistán, Koyasan/Kumano/onsen, vuelos transpacíficos y EEUU oeste."
@@ -4539,18 +4539,18 @@ window.travel2026Data = {
       {
         "block": "sri-nepal",
         "label": "Indonesia → Sri Lanka + internos",
-        "low": 550,
-        "realistic": 800,
-        "high": 2000,
-        "note": "Incluye salto a Colombo y traslados internos. Choferes cortos, trenes reservados o cambios tardíos lo suben."
+        "low": 500,
+        "realistic": 650,
+        "high": 1600,
+        "note": "Incluye salto a Colombo y traslados internos mínimos. El bloque corto solo tiene sentido si los vuelos no castigan demasiado."
       },
       {
         "block": "central",
-        "label": "Sri Lanka → Uzbekistán/Kirguistán + trenes/transfers",
-        "low": 650,
-        "realistic": 850,
-        "high": 2400,
-        "note": "Incluye salto a Asia Central, trenes uzbekos y transfers kirguises. Montaña/WNG hace menos defendible una base mínima."
+        "label": "Sri Lanka → Nepal/Asia Central + trenes/transfers",
+        "low": 700,
+        "realistic": 1000,
+        "high": 2500,
+        "note": "Incluye salto complejo y traslados de montaña/Silk Road. En una semana, la logística define qué entra de verdad."
       },
       {
         "block": "china",
@@ -4587,10 +4587,10 @@ window.travel2026Data = {
       {
         "block": "latam-return",
         "label": "EEUU → LatAm → Uruguay",
-        "low": 550,
-        "realistic": 800,
-        "high": 1800,
-        "note": "Saltos de regreso hacia Uruguay con una o dos escalas."
+        "low": 700,
+        "realistic": 1000,
+        "high": 2200,
+        "note": "Saltos de regreso hacia Uruguay con más margen para varias escalas latinoamericanas."
       }
     ]
   },
