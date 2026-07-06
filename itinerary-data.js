@@ -3735,7 +3735,7 @@ window.travel2026Data = {
     "updated": "2026-07-06",
     "currency": "USD",
     "scope": "Estimación 25 junio - 2 diciembre 2026: Asia compactada, Japón adelantado, cierre EEUU oeste y LatAm hacia Uruguay.",
-    "summary": "Presupuesto ruta completa hasta el 2 de diciembre: alrededor de $33.300, con más tiempo final en LatAm y bloques asiáticos más compactos.",
+    "summary": "Presupuesto ruta completa hasta el 2 de diciembre: alrededor de $28.200, calibrado con gasto real observado en Tailandia y menos colchón en extras/traslados.",
     "fixedPaid": [
       {
         "label": "Montevideo → Buenos Aires",
@@ -4063,22 +4063,22 @@ window.travel2026Data = {
       {
         "id": "lean",
         "label": "Controlado",
-        "total": 24700,
-        "remaining": 22590,
-        "note": "Versión controlada: Asia compacta, Japón medido, LatAm barato y pocas compras/experiencias grandes."
+        "total": 22900,
+        "remaining": 20790,
+        "note": "Versión controlada: Asia compacta, Japón medido, EEUU con alojamiento gratis parcial, LatAm barato y pocas compras/experiencias grandes."
       },
       {
         "id": "realistic",
         "label": "Ruta completa",
-        "total": 33300,
-        "remaining": 31190,
-        "note": "Ruta hasta el 2 de diciembre con Asia más compacta, Japón adelantado y más días de LatAm."
+        "total": 28200,
+        "remaining": 26090,
+        "note": "Ruta hasta el 2 de diciembre recalibrada con Tailandia en torno a $80/día y menos extras/traslados inflados."
       },
       {
         "id": "high",
         "label": "Me dejé llevar",
-        "total": 73000,
-        "remaining": 70890,
+        "total": 53000,
+        "remaining": 50890,
         "note": "Techo si EEUU/LatAm se vuelven caros, Japón cómodo, vuelos tardíos y más experiencias especiales."
       }
     ],
@@ -4089,60 +4089,60 @@ window.travel2026Data = {
         "nights": 18,
         "daily": {
           "low": 45,
-          "realistic": 90,
-          "high": 140
+          "realistic": 80,
+          "high": 120
         },
         "extras": {
-          "low": 200,
-          "realistic": 300,
-          "high": 1100
+          "low": 150,
+          "realistic": 200,
+          "high": 800
         },
         "total": {
-          "low": 1010,
-          "realistic": 1920,
-          "high": 3620
+          "low": 960,
+          "realistic": 1640,
+          "high": 2960
         },
         "paid": 632.72,
         "extrasPaid": 41.44,
-        "note": "Recortado a 18 noches: extras quedan para cooking/Muay Thai/entradas puntuales; masajes y templos normales viven dentro del día."
+        "note": "Recalibrado con gasto real: Tailandia viene más cerca de $80/día. Extras solo para cooking/Muay Thai/entradas puntuales."
       },
       {
         "block": "indonesia",
         "nights": 9,
         "daily": {
-          "low": 55,
-          "realistic": 90,
-          "high": 160
+          "low": 50,
+          "realistic": 80,
+          "high": 140
         },
         "extras": {
-          "low": 500,
-          "realistic": 900,
-          "high": 2300
+          "low": 450,
+          "realistic": 700,
+          "high": 2000
         },
         "total": {
-          "low": 995,
-          "realistic": 1710,
-          "high": 3740
+          "low": 900,
+          "realistic": 1420,
+          "high": 3260
         },
-        "note": "Indonesia queda concentrada. Extras siguen altos solo por Komodo/agua; si Komodo sale, este bloque baja fuerte."
+        "note": "Indonesia queda concentrada. Extras siguen reservados para Komodo/agua, pero sin inflar todo el bloque."
       },
       {
         "block": "sri-nepal",
         "nights": 5,
         "daily": {
-          "low": 60,
-          "realistic": 85,
-          "high": 160
+          "low": 55,
+          "realistic": 70,
+          "high": 130
         },
         "extras": {
-          "low": 250,
-          "realistic": 350,
-          "high": 1000
+          "low": 150,
+          "realistic": 250,
+          "high": 800
         },
         "total": {
-          "low": 550,
-          "realistic": 775,
-          "high": 1800
+          "low": 425,
+          "realistic": 600,
+          "high": 1450
         },
         "note": "Sri Lanka mini: entradas, una experiencia fuerte y margen mínimo. Choferes/trenes quedan en traslados, no en extras."
       },
@@ -4150,19 +4150,19 @@ window.travel2026Data = {
         "block": "central",
         "nights": 7,
         "daily": {
-          "low": 75,
-          "realistic": 100,
-          "high": 220
+          "low": 65,
+          "realistic": 85,
+          "high": 180
         },
         "extras": {
-          "low": 400,
-          "realistic": 600,
-          "high": 2200
+          "low": 300,
+          "realistic": 450,
+          "high": 1800
         },
         "total": {
-          "low": 925,
-          "realistic": 1300,
-          "high": 3740
+          "low": 755,
+          "realistic": 1045,
+          "high": 3060
         },
         "note": "Nepal/Uzbekistán/Kirguistán en una semana es solo bloque de decisión. Extras para una experiencia fuerte; transfers quedan en traslados."
       },
@@ -4170,19 +4170,19 @@ window.travel2026Data = {
         "block": "china",
         "nights": 7,
         "daily": {
-          "low": 75,
-          "realistic": 100,
-          "high": 200
+          "low": 65,
+          "realistic": 85,
+          "high": 170
         },
         "extras": {
-          "low": 250,
-          "realistic": 350,
-          "high": 1100
+          "low": 200,
+          "realistic": 250,
+          "high": 900
         },
         "total": {
-          "low": 775,
-          "realistic": 1050,
-          "high": 2500
+          "low": 655,
+          "realistic": 845,
+          "high": 2090
         },
         "note": "China compacto: entradas, pandas, Emei/Leshan o té serio. Trenes y cambios de ciudad quedan en traslados."
       },
@@ -4190,19 +4190,19 @@ window.travel2026Data = {
         "block": "korea-taiwan",
         "nights": 7,
         "daily": {
-          "low": 105,
-          "realistic": 135,
-          "high": 250
+          "low": 90,
+          "realistic": 115,
+          "high": 220
         },
         "extras": {
-          "low": 200,
-          "realistic": 250,
-          "high": 850
+          "low": 150,
+          "realistic": 200,
+          "high": 700
         },
         "total": {
-          "low": 935,
-          "realistic": 1195,
-          "high": 2600
+          "low": 780,
+          "realistic": 1005,
+          "high": 2240
         },
         "optional": false,
         "note": "Corea/Taiwán compacto: extras para termas, museos, temple stay o alguna salida concreta; comida/cafés quedan en día."
@@ -4211,19 +4211,19 @@ window.travel2026Data = {
         "block": "japan",
         "nights": 54,
         "daily": {
-          "low": 105,
-          "realistic": 120,
-          "high": 240
+          "low": 95,
+          "realistic": 110,
+          "high": 220
         },
         "extras": {
-          "low": 600,
-          "realistic": 700,
-          "high": 3000
+          "low": 500,
+          "realistic": 600,
+          "high": 2500
         },
         "total": {
-          "low": 6270,
-          "realistic": 7180,
-          "high": 15960
+          "low": 5630,
+          "realistic": 6540,
+          "high": 14380
         },
         "note": "Japón: extras para shukubo, onsen/ryokan puntual, museos y alguna experiencia especial. El día cubre la base larga."
       },
@@ -4231,39 +4231,39 @@ window.travel2026Data = {
         "block": "west-us",
         "nights": 15,
         "daily": {
-          "low": 140,
-          "realistic": 190,
-          "high": 320
+          "low": 95,
+          "realistic": 135,
+          "high": 260
         },
         "extras": {
-          "low": 250,
-          "realistic": 300,
-          "high": 1400
+          "low": 200,
+          "realistic": 250,
+          "high": 1200
         },
         "total": {
-          "low": 2350,
-          "realistic": 3150,
-          "high": 6200
+          "low": 1625,
+          "realistic": 2275,
+          "high": 5100
         },
-        "note": "EEUU oeste: extras para museos/parques puntuales. La parte cara ya está en día y traslados."
+        "note": "EEUU oeste: promedio bajado porque probablemente una semana no paga alojamiento. Extras para museos/parques puntuales."
       },
       {
         "block": "latam-return",
         "nights": 38,
         "daily": {
-          "low": 65,
-          "realistic": 115,
-          "high": 200
+          "low": 60,
+          "realistic": 90,
+          "high": 170
         },
         "extras": {
-          "low": 300,
-          "realistic": 500,
-          "high": 1500
+          "low": 250,
+          "realistic": 400,
+          "high": 1200
         },
         "total": {
-          "low": 2770,
-          "realistic": 4870,
-          "high": 9100
+          "low": 2530,
+          "realistic": 3820,
+          "high": 7660
         },
         "note": "LatAm regreso largo: más días para bajar hacia Uruguay. Extras mínimos para algún tour/comida especial; el resto queda en día."
       }
@@ -4428,6 +4428,7 @@ window.travel2026Data = {
       "Vietnam/Camboya sale del itinerario activo; sus dossiers quedan guardados para recuperar si cambia la ruta.",
       "Tailandia baja tres noches; Sri Lanka queda en cinco noches; Nepal/Uzbekistán/Kirguistán, China y Corea/Taiwán quedan en una semana cada uno.",
       "Japón se adelanta y mantiene duración larga; EEUU oeste también se adelanta y el resto hasta el 2 de diciembre pasa a LatAm.",
+      "Modelo recalibrado con Tailandia como señal real: apuntar a día normal cómodo, no lujo; extras y traslados solo cuando son costos realmente excepcionales.",
       "Extras cubre solo costos excepcionales: entradas/tours/guías/permisos/retiros puntuales, Komodo, safari, WNG/montaña, shukubo/onsen o museos especiales. Comida, cafés, transporte local y vida normal quedan en día.",
       "Seguro, salud, vacunas, pasaportes, visas/eSIM y margen de cambios quedan dentro de un único buffer de $2.000; lo ya gastado se muestra en verde.",
       "Drivers principales a vigilar: Komodo, Sri Lanka safari, WNG/Kirguistán, Koyasan/Kumano/onsen, vuelos transpacíficos y EEUU oeste."
@@ -4522,74 +4523,74 @@ window.travel2026Data = {
       {
         "block": "thailand",
         "label": "Traslados internos Tailandia",
-        "low": 80,
-        "realistic": 150,
-        "high": 300,
+        "low": 60,
+        "realistic": 100,
+        "high": 220,
         "paid": 48.05,
-        "note": "Menos noches, pero sigue habiendo vuelos/buses/apps ya en curso."
+        "note": "Ajustado a gasto real: ya hay CEI-DMK pago y el resto deberían ser buses/apps puntuales."
       },
       {
         "block": "indonesia",
         "label": "Entrada Indonesia + vuelos/ferries internos",
-        "low": 400,
-        "realistic": 900,
-        "high": 1700,
-        "note": "Menos días, pero Komodo mantiene alto el costo logístico."
+        "low": 350,
+        "realistic": 700,
+        "high": 1400,
+        "note": "Mantiene margen por Komodo, pero sin asumir demasiados saltos internos."
       },
       {
         "block": "sri-nepal",
         "label": "Indonesia → Sri Lanka + internos",
-        "low": 500,
-        "realistic": 650,
-        "high": 1600,
+        "low": 350,
+        "realistic": 500,
+        "high": 1300,
         "note": "Incluye salto a Colombo y traslados internos mínimos. El bloque corto solo tiene sentido si los vuelos no castigan demasiado."
       },
       {
         "block": "central",
         "label": "Sri Lanka → Nepal/Asia Central + trenes/transfers",
-        "low": 700,
-        "realistic": 1000,
-        "high": 2500,
+        "low": 600,
+        "realistic": 850,
+        "high": 2300,
         "note": "Incluye salto complejo y traslados de montaña/Silk Road. En una semana, la logística define qué entra de verdad."
       },
       {
         "block": "china",
         "label": "Asia Central → China + trenes largos",
-        "low": 350,
-        "realistic": 500,
-        "high": 1500,
+        "low": 300,
+        "realistic": 400,
+        "high": 1200,
         "note": "Base para China compacto con trenes eficientes. Chengdu/Emei o cambios de región suben la logística."
       },
       {
         "block": "korea-taiwan",
         "label": "China → Corea → Taiwán + traslados",
-        "low": 350,
-        "realistic": 450,
-        "high": 1400,
+        "low": 300,
+        "realistic": 400,
+        "high": 1200,
         "note": "Dos saltos regionales más traslados urbanos. Se mantiene razonable si se compra sin esperar al último momento."
       },
       {
         "block": "japan",
         "label": "Taiwán → Japón + Japón interno",
-        "low": 1100,
-        "realistic": 1300,
-        "high": 3300,
-        "note": "Japón interno y entrada desde Taiwán. La salida a EEUU queda en el bloque siguiente."
+        "low": 900,
+        "realistic": 1100,
+        "high": 2800,
+        "note": "Japón interno y entrada desde Taiwán. Sin asumir JR Pass amplio si la ruta se arma con cuidado."
       },
       {
         "block": "west-us",
         "label": "Japón → EEUU oeste + internos",
-        "low": 650,
-        "realistic": 900,
-        "high": 1800,
+        "low": 600,
+        "realistic": 800,
+        "high": 1600,
         "note": "Vuelo transpacífico más traslados internos mínimos."
       },
       {
         "block": "latam-return",
         "label": "EEUU → LatAm → Uruguay",
-        "low": 700,
-        "realistic": 1000,
-        "high": 2200,
+        "low": 600,
+        "realistic": 850,
+        "high": 2000,
         "note": "Saltos de regreso hacia Uruguay con más margen para varias escalas latinoamericanas."
       }
     ]
